@@ -1,0 +1,2 @@
+Consigne pour utiliser GestBulletin 1.0 en toute aisance
+-- mettre l'écran sous la résolution 1152x864

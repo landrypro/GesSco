@@ -1,0 +1,134 @@
+[Root]
+Most Recent Package=Logiciel d'installation de la version Beta 1
+
+
+[Package|Logiciel d'installation de la version Beta 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Install Ges_sco
+
+[Package|Logiciel d'installation de la version Beta 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Logiciel d'installation de la version Beta 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Logiciel d'installation de la version Beta 1|Files Found]
+
+[Package|Logiciel d'installation de la version Beta 1|Files Released]
+
+[Package|Logiciel d'installation de la version Beta 1|Missing Dependency Information]
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\APPWIZ.OCX=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\Program Files\Fichiers communs\System\ado\msado20.tlb=
+C:\WINDOWS\system32\APPWIZ.OCX=
+
+[Package|Logiciel d'installation de la version Beta 1|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCAL.OCX=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\Program Files\Microsoft Office\OFFICE11\MSCAL.OCX=
+
+[Package|Logiciel d'installation de la version Beta 1|Files Added]
+
+[Package|Logiciel d'installation de la version Beta 1|Files Removed]
+
+[Package|Logiciel d'installation de la version Beta 1|Files In Project]
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6FR.DLL=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCFR.DLL=Yes
+C:\Program Files\Fichiers communs\DESIGNER\MSDERUN.DLL=Yes
+C:\Program Files\Fichiers communs\System\ado\msado20.tlb=Yes
+C:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\DBRPRFR.DLL=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+C:\WINDOWS\system32\MSDATLST.OCX=Yes
+C:\WINDOWS\system32\DATLSFR.DLL=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\DATGDFR.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\New Ges_Sco\Gest_Etab.exe=Yes
+C:\Program Files\Microsoft Office\OFFICE11\MSCAL.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\APPWIZ.OCX=Yes
+
+[Package|Logiciel d'installation de la version Beta 1|Configure Registry Files]
+Applicable=No
+
+[Package|Logiciel d'installation de la version Beta 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Logiciel d'installation de la version Beta 1|Install Locations]
+C:\Beta Commerce\Gest_Etab.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6FR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCFR.DLL=$(WinSysPath)
+C:\Program Files\Fichiers communs\DESIGNER\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Program Files\Fichiers communs\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\DBRPRFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCAL.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\APPWIZ.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSDATLST.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DATLSFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DATGDFR.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Ges_Sco\Gest_Etab.exe=$(AppPath)
+C:\WINDOWS\system32\APPWIZ.OCX=$(WinSysPath)
+C:\New Ges_Sco\Gest_Etab.exe=$(AppPath)
+C:\Program Files\Microsoft Office\OFFICE11\MSCAL.OCX=$(WinSysPath)
+
+[Package|Logiciel d'installation de la version Beta 1|Configure Shared Files]
+Applicable=Yes
+C:\Beta Commerce\Gest_Etab.exe=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Ges_Sco\Gest_Etab.exe=Yes
+C:\New Ges_Sco\Gest_Etab.exe=Yes
+
+[Package|Logiciel d'installation de la version Beta 1|Distribution]
+Type=single
+Size=
+Title=Gest_Sco 1.0
+
+[Package|Logiciel d'installation de la version Beta 1|IconGroups]
+Group0=Gest_Sco ver 1.0
+PrivateGroup0=Faux
+Parent0=$(Programs)
+
+[Package|Logiciel d'installation de la version Beta 1|Gest_Sco ver 1.0]
+Icon1=Gest_Etab.exe
+Title1=Gest_Sco ver 1.0
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Logiciel d'installation de la version Beta 1|Package]
+PackageFolder=C:\Install Ges_sco
+ProjectFolder=C:\New Ges_Sco
+ServerSideCab=
+File1=C:\Install Ges_sco\setup.exe
+File2=C:\Install Ges_sco\Setup.Lst
+File3=C:\Install Ges_sco\Gest_Etab.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
